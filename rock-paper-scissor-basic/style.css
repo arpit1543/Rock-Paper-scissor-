@@ -1,0 +1,36 @@
+
+#computer {
+    text-align: center;
+    padding: auto;
+}
+
+#user {
+    text-align: center;
+    padding: auto;
+
+}
+
+#result{
+    text-align: center;
+    padding: auto;
+
+}
+
+.buttons {
+    display: flex;
+    align-content: center;
+}
+
+
+button{
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    padding: 15px 32px;
+    border-radius: 12px;
+    border: 2px solid yellow;
+    color:white;
+    background-color: black;
+
+}
+
